@@ -26,18 +26,26 @@ h2 {
 
 h3 {
   color: #FFF1DE;
+  font-family: 'Atma', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 h4 {
   color: #FFF1DE;
+  font-family: 'Atma', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 h5 {
   padding: 0px !important;
+  font-family: 'Atma', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 p {
   color: #FFF1DE;
+  font-family: 'Atma', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 .navbar-brand {
@@ -127,6 +135,8 @@ a:hover {
   background-color: #25D366;
   border-color: #25D366;
   color: #FFFCF0;
+  text-align: center;
+  margin: auto;
 }
 
 .btn-success:hover {
@@ -149,6 +159,7 @@ a:hover {
 .btn-info {
   text-align: center;
   color: #FFFCF0;
+  margin: auto;
 }
 
 .btn-info:hover {
