@@ -3,7 +3,7 @@ body {
   background-color: #FFFCF0;
   font-family: 'Atma', cursive;
   font-family: 'Montserrat Alternates', sans-serif;
-  margin: auto;
+  overflow: auto; 
 }
 
 h1 {
