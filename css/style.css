@@ -137,6 +137,7 @@ a:hover {
   color: #FFFCF0;
   text-align: center;
   margin: auto;
+  padding: auto;
 }
 
 .btn-success:hover {
@@ -366,7 +367,7 @@ img {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 h2 {
@@ -396,6 +397,10 @@ p {
 
 .card-text {
   font-size: 1rem;
+}
+
+header {
+  display: none;
 }
 
 
