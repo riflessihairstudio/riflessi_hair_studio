@@ -1,10 +1,10 @@
 /*generale*/
-body {
+.corpo {
   background-color: #FFFCF0;
   font-family: 'Atma', cursive;
   font-family: 'Montserrat Alternates', sans-serif;
-  overflow: auto; 
 }
+
 
 h1 {
   font-size: 6rem;
